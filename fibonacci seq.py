@@ -1,4 +1,4 @@
-user=int(input("enter digit:"))
+user=int(input("enter number of digits you want to generate:")) 
 
 a=0
 b=1
